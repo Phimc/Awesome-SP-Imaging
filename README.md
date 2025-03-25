@@ -6,3 +6,6 @@ Awesome Single-Pixel Imaging Projects
 
 ## Single-pixel three-dimensional imaging based on 2D compressed sensing algorithm
 [ZONGGUANG OUYANG,ZHAN YU,XIN ZHOU,et. al. Optics Express Vol.33,No.5](https://doi.org/10.1364/OE.550535)
+
+## Polarizer-free two-pixel polarimetric camera by compressive sensing 
+[Julien Fade, Estéban Perrotin, and Jérôme Bobin. Applied Optics Vol. 57(2018)](https://doi.org/10.1364/AO.57.00B102)
